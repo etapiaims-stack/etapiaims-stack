@@ -1,6 +1,6 @@
 # 👋 Hola, soy Eduardo Padilla
 
-## 🚀 desarrollador full stack
+## 🚀 Desarrollador full stack
 
 💻 Actualmente trabajando con:
 - React
