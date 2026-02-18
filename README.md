@@ -16,7 +16,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Node](https://skillicons.dev/icons?i=nodejs)
 ![Git](https://skillicons.dev/icons?i=git)
-
+![php](https://skillicons.dev/icons?i=php)
 ---
 
 ## 📊 Estadísticas
