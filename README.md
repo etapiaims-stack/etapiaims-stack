@@ -7,6 +7,7 @@
 - JavaScript
 - Node.js
 - Git
+- PHP
 
 ---
 
