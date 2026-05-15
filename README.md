@@ -1,4 +1,4 @@
-# 👋 Hola, soy Eduardo Padilla
+# 👋 Hola, soy Eduardo Tapia
 
 ## 🚀 Desarrollador full stack
 
